@@ -9,6 +9,7 @@ methods used in your projects as the helper ones.
 #### Have fun with my code and feel free to give me any comment
 
 #### Connect me via: 
-[Email](mailto : phongthanhnhi1812@gmail.com)
+[Email](mailto : phongthanhnhi1812@gmail.com)  
+
 
 #### © 2021 ThNhi
