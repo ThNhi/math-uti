@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.thnhi;
+package com.fu.mathutil;
 
 /**
  *
@@ -27,6 +27,7 @@ public class MathUtility {
         if (n == 0 || n == 1) {
             return 1;
         }
+
         long result = 0; //gia bo = 0
         for (int i = 2; i <= n; i++) {
             result *= 1;
