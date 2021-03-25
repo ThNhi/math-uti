@@ -28,7 +28,7 @@ public class MathUtility {
             return 1;
         }
 
-        long result = 0; //gia bo = 0
+        long result = 1; //gia bo = 0
         for (int i = 2; i <= n; i++) {
             result *= 1;
         }
