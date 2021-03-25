@@ -66,7 +66,7 @@ public class MathUtilityTest {
     
     @Test(expected = IllegalArgumentException.class )
     public void testFactorialGivenWrongArgumentThrowException(){
-        MathUtility.getFactorial(-30); //phai XH Exception
+        MathUtility.getFactorial(30); //phai XH Exception
 //        MathUtility.getFactorial(-10); //phai XH Exception
 //        MathUtility.getFactorial(21); //phai XH Exception
 //        MathUtility.getFactorial(40); //phai XH Exception

@@ -30,7 +30,7 @@ public class MathUtility {
 
         long result = 1; //gia bo = 0
         for (int i = 2; i <= n; i++) {
-            result *= 1;
+            result *= i;
         }
         return result;
     }
